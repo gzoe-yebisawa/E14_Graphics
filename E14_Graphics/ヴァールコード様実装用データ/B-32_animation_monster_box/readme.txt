@@ -1,0 +1,5 @@
+味方モンスターボックス用エフェクト
+・Pf_PtcCS_MonsterBox00.prefab
+
+敵モンスターボックス用エフェクト
+・Pf_PtcCS_MonsterBox01.prefab
