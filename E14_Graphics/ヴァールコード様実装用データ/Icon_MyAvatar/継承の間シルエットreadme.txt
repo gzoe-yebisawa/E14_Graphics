@@ -1,0 +1,2 @@
+AtlasF16_MenuButton.png内
+同名のスプライトと差し替えてください。
